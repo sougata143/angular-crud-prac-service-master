@@ -81,7 +81,7 @@
 		<dependency>
 		    <groupId>com.google.guava</groupId>
 		    <artifactId>guava</artifactId>
-		    <version>20.0</version>
+		    <version>32.0.0-android</version>
 		</dependency>
 		
 		<!-- https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind -->
@@ -114,7 +114,7 @@
 	<dependency>
 		<groupId>commons-lang</groupId>
 		<artifactId>commons-lang</artifactId>
-		<version>2.6</version>
+		<version>2.5</version>
 	</dependency>
 	
 	
@@ -141,14 +141,14 @@
 	<dependency>
     <groupId>io.springfox</groupId>
     <artifactId>springfox-swagger2</artifactId>
-    <version>2.7.0</version>
+    <version>2.10.0</version>
     </dependency>
 	
 	<!-- swagger ui -->
 	<dependency>
     <groupId>io.springfox</groupId>
     <artifactId>springfox-swagger-ui</artifactId>
-    <version>2.7.0</version>
+    <version>2.10.0</version>
     </dependency>
 	
 	
